@@ -1,0 +1,1 @@
+LiteBrowser is a lean Ubuntu browser starter built with C++17, GTK3, and WebKit2GTK. It ships multi-process rendering, hardware acceleration, a minimal toolbar, download handling, and an optional content-filter hook. The codebase is designed to stay small and auditable while remaining extensible (tabs, preferences, ad-blocking, CI).
